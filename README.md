@@ -46,7 +46,7 @@ The example below we will have 10 commands: 1 42 → put 42 in the list, 2 → p
 14
 14
 
-## Running Median
+## Running Median (Solved in runningMedian.js)
 
 Given that integers are read from a data stream. Find median of elements read so for in efficient way. The data set must be ordered in ascending mode:
 When the input size is odd, we take the middle element.
